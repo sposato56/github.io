@@ -1,0 +1,41 @@
+@media only screen and (max-width: 500px) {
+   #sidebar {
+        background-color: lightblue;
+    }
+}
+body {
+  background-image: url("http://i.imgur.com/5njG5N3.jpg");
+}
+#body {
+padding: 1em;
+width:50%;
+}
+
+#sidebar {
+padding: 1em;
+width:30%;
+float: right;
+
+}
+ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 3px; 
+    display: block;
+    }
+
+img {
+padding: 1em;
+width:100%;
+border: 8px;
+}
+.footer  {
+    font-style: italic;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+}
+.message {
+  font-style: italic;
+  
+}
